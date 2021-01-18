@@ -21,7 +21,7 @@ const styles = {
 const RoadSign = () => (
   <SwipeableViews>
     <div style={Object.assign({}, styles.slide, styles.slide1)}>
-      slide n°1
+      Main
     </div>
     <div style={Object.assign({}, styles.slide, styles.slide2)}>
       slide n°2
